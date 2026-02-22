@@ -1,0 +1,42 @@
+﻿
+> my-v0-project@0.1.0 dev
+> next dev
+
+node.exe :  ΓÜá Port 3000 is 
+in use by process 5072, using 
+available port 3001 instead.
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+    + CategoryInfo          : 
+    NotSpecified: ( ΓÜá Port  
+   3000 ...t 3001 instead.:   
+ String) [], RemoteExcepti    
+on
+    + FullyQualifiedErrorId : 
+    NativeCommandError
+ 
+   Γû▓ Next.js 16.0.10 (Turbopack)
+   - Local:         http://localhost:3001
+   - Network:       http://10.124.174.198:3001
+
+ Γ£ô Starting...
+[baseline-browser-mapping] 
+The data in this module is 
+over two months old.  To 
+ensure accurate Baseline 
+data, please update: `npm i ba
+seline-browser-mapping@latest 
+-D`
+ Γ¿» Unable to acquire lock 
+at C:\Users\ELCOT\Documents\Gi
+tHub\PROJECT\.next\dev\lock, 
+is another instance of next 
+dev running?
+   Suggestion: If you intended to restart next dev, terminate the other process, and then try again.
+[?25h
